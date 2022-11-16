@@ -1,4 +1,7 @@
 # CS1 CMU (Python)
+
+Used for those who need help with CMU
+
 I will update this repos as I finish each one
 
 I finished all of the first ones in the first unit, accept for the last few. 
