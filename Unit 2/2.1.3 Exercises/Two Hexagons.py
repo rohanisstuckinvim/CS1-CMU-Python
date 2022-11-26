@@ -8,5 +8,6 @@ def drawTwoHexagons(color):
     
 
 ##### Place your code above this line, code below is for testing purposes #####
-# test case:
+# test case:\
+
 drawTwoHexagons('green')
